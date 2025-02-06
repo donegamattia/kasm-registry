@@ -13,9 +13,9 @@
     ],
     "compatibility": [
       {
-        "version": "1.16.x",
+        "version": "1.17.x",
         "image": "donnypr0xy/superslicer-kasm",
-        "uncompressed_size_mb": 2428,
+        "uncompressed_size_mb": 1400,
         "available_tags": [
           "develop",
           "latest"
